@@ -13,3 +13,6 @@ Signal Analysis in Power Systems
 A CNN–LSTM model for gold price time-series forecasting
 
 https://bc165870081.medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98-%E6%99%82%E5%BA%8F%E8%B3%87%E6%96%99%E7%9A%84%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%BB%BA%E6%A8%A1-day3-f7cc14371a0
+
+
+https://www.sciencedirect.com/science/article/abs/pii/S1568494617305665
