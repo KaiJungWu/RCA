@@ -16,3 +16,24 @@ https://bc165870081.medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98-%E6%99%82%E5
 
 
 https://www.sciencedirect.com/science/article/abs/pii/S1568494617305665
+
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_miscellaneous_2805029769&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classfication
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991023677215507351&context=L&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,time%20series%20classfication
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991023037129707351&context=L&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,time%20series%20classfication
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_primary_10_1109_TCAD_2022_3197488&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=10
+
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_arxiv_primary_1901_00110&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=10
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_hal_primary_oai_HAL_hal_03181438v1&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=10
+
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991023298298707351&context=L&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,time%20series%20classification&offset=20
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_arxiv_primary_1801_04503&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=20
+
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_2809894096&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=20
