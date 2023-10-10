@@ -37,3 +37,5 @@ https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991023
 https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_arxiv_primary_1801_04503&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=20
 
 https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_2809894096&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=20
+
+https://ieeexplore.ieee.org/document/9378082
