@@ -29,7 +29,8 @@ https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossr
 
 https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_arxiv_primary_1901_00110&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=10
 
-https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_hal_primary_oai_HAL_hal_03181438v1&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=10
+https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?
+docid=cdi_hal_primary_oai_HAL_hal_03181438v1&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=10
 
 
 https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991023298298707351&context=L&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,time%20series%20classification&offset=20
@@ -39,3 +40,7 @@ https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_arxiv_
 https://liverpool.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_2809894096&context=PC&vid=44LIV_INST:44LIV_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,time%20series%20classification&offset=20
 
 https://ieeexplore.ieee.org/document/9378082
+
+
+
+https://ieeexplore.ieee.org/document/9685864
