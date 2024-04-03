@@ -48,4 +48,4 @@ https://link.springer.com/article/10.1007/s11265-023-01846-y
 https://ieeexplore.ieee.org/document/9685864
 
 
-吳錦聖
+吳錦盛
