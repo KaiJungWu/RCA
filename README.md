@@ -49,3 +49,21 @@ https://ieeexplore.ieee.org/document/9685864
 
 
 吳錦盛
+
+
+
+I want to share something else with you. Do you remember the night we walked hand in hand through Hyde Park? You said you didn’t want to be serious, just to have some fun. I totally agreed and have kept this in mind, reminding myself not to get too emotionally attached.
+
+ However, something has changed recently.There are some times  you’ve started said me as  'girlfriend.'  For example, after climbing and having lunch at an Italian restaurant, you accidentally left your backpack. When I helped you to get back and  returned it, you said : thank you 'my girlfriend.' This is one of case happened recently. Those cases confused me because we had agreed not to be serious beforehand. Over time, this has made me wonder if you want something more serious, while I’m the one holding back.
+
+I’ve grown more comfortable and happy with you, and my feelings have developed gradually. It has made me reassess our relationship and expectations. 
+
+Last night,my feelings of loss and sadness came from this mismatch between my expectations and reality. I had started to feel like we were ready to take the next step, just waiting for one of us to ask if we wanted to be officially together.
+ 
+I can be honest tell you what  is my strategy of our further relationship. If we choose to continue casually, let's define clearly our boundaries and expectations first.Like,what we can not do or can we do . If we want to get serious, then let's do so without fear.
+
+But for now, Just let me take a break from us for a while.I need some time to redirection myself from us and adjust my mindset . This will give both of us time to consider what we want and need from this relationship. Let's meet again when we're both in a healthier and more stable state of mind
+
+People say the one who gives their heart first is the loser in love game, but I’m not afraid of being a loser. Being honest with myself is more important. The one thing I am sure of is that I like you.
+
+
