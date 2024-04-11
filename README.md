@@ -67,3 +67,9 @@ But for now, Just let me take a break from us for a while.I need some time to re
 People say the one who gives their heart first is the loser in love game, but I’m not afraid of being a loser. Being honest with myself is more important. The one thing I am sure of is that I like you.
 
 
+
+
+
+Don't worry that I'm not with you right now; I am always with you. We're both pilots in the same airplane, currently just experiencing some turbulence. We've spent time and energy to get our plane off the ground, and one day, we'll need to land it together, no matter the destination. So, don't worry—I won't leave you to land it alone. If you're feeling worried or uncertain about us, please be honest and let me know.  I will try to understand you and keep our conversation open and smooth. The reason I'm taking this break isn't I want to leave you,it's that I hope we can reunite with healthier and more stable mindsets."
+
+
